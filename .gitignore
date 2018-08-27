@@ -1,0 +1,29 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# virtualenv
+.venv/
+venv/
+ENV/
+env/
+
+# Linux Backup files
+*~
+
+# Cpp
+assignment2/
+*.o
+*.obj
+*.a
+*.so
+*.so.*
+*.out
+*.exe
